@@ -1,0 +1,31 @@
+html *{
+    font-family: Arial, Verdana, sans-serif;
+    background-color: lightgreen;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    color: blue;
+    background-color: lightsalmon;
+}
+
+.list {
+    font-size: 18px;
+}
+
+.para {
+    color: violet;
+}
+
+.crepes {
+    color: red;
+    font-weight: bold;
+}
